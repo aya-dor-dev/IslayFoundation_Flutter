@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "715405097503",
+    "firebase_url": "https://islay-foundation.firebaseio.com",
+    "project_id": "islay-foundation",
+    "storage_bucket": "islay-foundation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715405097503:android:b5a403dc4626e5c30b732a",
+        "android_client_info": {
+          "package_name": "com.doraya.islay_foundation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715405097503-92ivoco49itevgt70relfatg8hu7hmvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doraya.islay_foundation",
+            "certificate_hash": "05e9f07bc94dde9d4fb98216dbaf182ddadb2cbb"
+          }
+        },
+        {
+          "client_id": "715405097503-2s6cp00j356jfk3cdo6rqu6oki9in9mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvrDQwYWxTED3QPU-PhqON-bzjmiu28k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715405097503-2s6cp00j356jfk3cdo6rqu6oki9in9mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>715405097503-34stsjaj5hfbai1c4e8emtec1pvl3l9u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.715405097503-34stsjaj5hfbai1c4e8emtec1pvl3l9u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>715405097503-92ivoco49itevgt70relfatg8hu7hmvg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxzJg3asF4kK4k0gHqDnBTE7hoLUqVSvw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>715405097503</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.doraya.islayFoundation</string>
+	<key>PROJECT_ID</key>
+	<string>islay-foundation</string>
+	<key>STORAGE_BUCKET</key>
+	<string>islay-foundation.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:715405097503:ios:f26c054b4ce8b1870b732a</string>
+	<key>DATABASE_URL</key>
+	<string>https://islay-foundation.firebaseio.com</string>
+</dict>
+</plist>
